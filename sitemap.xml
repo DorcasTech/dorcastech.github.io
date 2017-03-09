@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dorcas.tech/index.html</loc>
+    
+    <lastmod>2017-03-09T23:14:36.429Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://dorcas.tech/careers/index.html</loc>
     
-    <lastmod>2017-03-08T02:53:03.542Z</lastmod>
+    <lastmod>2017-03-09T00:49:13.255Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://dorcas.tech/contact/index.html</loc>
     
-    <lastmod>2017-03-08T02:34:21.795Z</lastmod>
+    <lastmod>2017-03-08T23:18:07.879Z</lastmod>
     
   </url>
   
@@ -19,13 +26,6 @@
     <loc>https://dorcas.tech/news/index.html</loc>
     
     <lastmod>2017-03-08T01:43:27.228Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://dorcas.tech/index.html</loc>
-    
-    <lastmod>2017-03-07T23:17:28.518Z</lastmod>
     
   </url>
   
