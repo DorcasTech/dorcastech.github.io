@@ -5888,6 +5888,8 @@ button.close {
   padding-top: 20px;
   padding-bottom: 15px;
   background-color: #3c3c3c; }
+  #share-section .fb-share-button > * {
+    vertical-align: baseline !important; }
 
 /** Font Awesome **/
 .fa {
