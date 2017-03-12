@@ -2,23 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dorcas.tech/news/index.html</loc>
+    
+    <lastmod>2017-03-12T16:33:29.396Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dorcas.tech/contact/index.html</loc>
+    
+    <lastmod>2017-03-12T16:31:33.664Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://dorcas.tech/careers/marketing-and-sales-representative.html</loc>
     
-    <lastmod>2017-03-12T02:24:36.706Z</lastmod>
+    <lastmod>2017-03-12T16:28:09.984Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://dorcas.tech/careers/software-engineer.html</loc>
     
-    <lastmod>2017-03-12T02:09:17.984Z</lastmod>
+    <lastmod>2017-03-12T16:27:29.697Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://dorcas.tech/careers/index.html</loc>
     
-    <lastmod>2017-03-12T02:03:35.104Z</lastmod>
+    <lastmod>2017-03-12T14:31:39.340Z</lastmod>
     
   </url>
   
@@ -26,20 +40,6 @@
     <loc>https://dorcas.tech/index.html</loc>
     
     <lastmod>2017-03-10T00:18:51.044Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://dorcas.tech/contact/index.html</loc>
-    
-    <lastmod>2017-03-08T23:18:07.879Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://dorcas.tech/news/index.html</loc>
-    
-    <lastmod>2017-03-08T01:43:27.228Z</lastmod>
     
   </url>
   
