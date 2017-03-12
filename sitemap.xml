@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://dorcas.tech/index.html</loc>
+    <loc>https://dorcas.tech/careers/software-engineer.html</loc>
     
-    <lastmod>2017-03-10T00:18:51.044Z</lastmod>
+    <lastmod>2017-03-12T01:22:49.904Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dorcas.tech/careers/marketing-and-sales-representative.html</loc>
+    
+    <lastmod>2017-03-12T01:18:58.940Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://dorcas.tech/careers/index.html</loc>
     
-    <lastmod>2017-03-09T00:49:13.255Z</lastmod>
+    <lastmod>2017-03-11T19:23:34.269Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dorcas.tech/index.html</loc>
+    
+    <lastmod>2017-03-10T00:18:51.044Z</lastmod>
     
   </url>
   
