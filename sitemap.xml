@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dorcas.tech/blog/index.html</loc>
+    
+    <lastmod>2017-07-14T13:53:34.982Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dorcas.tech/simpala/gradebook/index.html</loc>
+    
+    <lastmod>2017-07-14T13:48:29.484Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dorcas.tech/simpala/finance/index.html</loc>
+    
+    <lastmod>2017-07-14T13:48:10.789Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dorcas.tech/simpala/alerts/index.html</loc>
+    
+    <lastmod>2017-07-14T13:48:00.205Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dorcas.tech/simpala/index.html</loc>
+    
+    <lastmod>2017-07-14T13:47:14.470Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://dorcas.tech/careers/index.html</loc>
     
     <lastmod>2017-03-12T21:38:46.225Z</lastmod>
@@ -19,13 +54,6 @@
     <loc>https://dorcas.tech/careers/software-engineer.html</loc>
     
     <lastmod>2017-03-12T21:36:49.889Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://dorcas.tech/news/index.html</loc>
-    
-    <lastmod>2017-03-12T16:33:29.396Z</lastmod>
     
   </url>
   

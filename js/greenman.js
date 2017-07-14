@@ -1,18 +1,1 @@
-(function(){
-  var toggleBtn = document.querySelector('.navbar-toggle');
-  var collapsibleMenu = document.querySelector('.navbar-collapse')
-  console.log(toggleBtn, collapsibleMenu)
-
-  toggleBtn.addEventListener('click', function(e){
-    if(collapsibleMenu.classList.contains('collapse')) {
-      collapsibleMenu.classList.remove('collapse');
-    }
-    else{
-      collapsibleMenu.classList.add('collapse');
-    }
-    e.stopPropagation();
-  })
-  document.body.addEventListener('click', function(){
-    collapsibleMenu.classList.add('collapse');
-  })
-})();
+!function(){var e=document.querySelector(".navbar-toggle"),c=document.querySelector(".navbar-collapse");console.log(e,c),e.addEventListener("click",function(e){c.classList.contains("collapse")?c.classList.remove("collapse"):c.classList.add("collapse"),e.stopPropagation()}),document.body.addEventListener("click",function(){c.classList.add("collapse")})}();
